@@ -1,7 +1,7 @@
 {
   "name": "myanimelist-jikan",
   "version": "1.0.0",
-  "description": "A feature-rich, human-like, and powerful Node.js wrapper for the Jikan.moe v4 API.",
+  "description": "powerful Node.js wrapper for the Jikan.moe v4 API.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
