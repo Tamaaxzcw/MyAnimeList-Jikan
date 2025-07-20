@@ -1,0 +1,6 @@
+# GitHub specific files
+.github/
+.gitignore
+
+# Development files
+*.log
