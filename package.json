@@ -1,0 +1,33 @@
+{
+  "name": "myanimelist-jikan",
+  "version": "1.0.0",
+  "description": "A feature-rich, human-like, and powerful Node.js wrapper for the Jikan.moe v4 API.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USERNAME/myanimelist-jikan.git"
+  },
+  "keywords": [
+    "jikan",
+    "myanimelist",
+    "anime",
+    "manga",
+    "api",
+    "wrapper",
+    "jikan-api",
+    "tamaaxzcw"
+  ],
+  "author": "tamaaxzcw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/USERNAME/myanimelist-jikan/issues"
+  },
+  "homepage": "https://github.com/USERNAME/myanimelist-jikan#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
