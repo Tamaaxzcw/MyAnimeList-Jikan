@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/myanimelist-jikan.git"
+    "url": "git+https://github.com/Tamaaxzcw/myanimelist-jikan.git"
   },
   "keywords": [
     "jikan",
@@ -24,9 +24,9 @@
   "author": "tamaaxzcw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/USERNAME/myanimelist-jikan/issues"
+    "url": "https://github.com/Tamaaxzcw/myanimelist-jikan/issues"
   },
-  "homepage": "https://github.com/USERNAME/myanimelist-jikan#readme",
+  "homepage": "https://github.com/Tamaaxzcw/myanimelist-jikan#readme",
   "engines": {
     "node": ">=16.0.0"
   }
